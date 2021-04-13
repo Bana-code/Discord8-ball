@@ -1,8 +1,8 @@
 # Discord8-ball
 simple discord bot that is basically answers your life existence.\
 (Also works with tts)\
-Bot prefix is ";" without the brackets.\
-You can do ;help to find what can it do.\
+Bot prefix is ";" without the quotation marks.
+You can do ";help" without the quotation marks to find what can it do.
 
 ## How to run
 ### Requirements
